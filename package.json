@@ -1,0 +1,18 @@
+{
+  "name": "babel-esnext-polyfill",
+  "version": "1.0.0",
+  "description": "babel polyfill not include es5-polyfill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "newraina",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newraina/babel-esnext-polyfill"
+  },
+  "dependencies": {
+    "core-js": "^2.4.0"
+  }
+}
