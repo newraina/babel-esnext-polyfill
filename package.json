@@ -1,6 +1,6 @@
 {
   "name": "babel-esnext-polyfill",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "babel polyfill not include es5-polyfill",
   "main": "index.js",
   "scripts": {
