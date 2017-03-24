@@ -13,3 +13,7 @@
 - Set
 
 - Map
+
+- Function (function.name only)
+
+- Number (Number.isNaN only)
